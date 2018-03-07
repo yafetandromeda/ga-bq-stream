@@ -8,7 +8,7 @@ handlers:
 
 #[START env]
 env_variables:
-  DATASET_ID: tests
+  DATASET_ID: yafet_test
   TABLE_ID: realtime_markedmondsonme
   SECRET_SALT: blahblahblah
 #[END env]
